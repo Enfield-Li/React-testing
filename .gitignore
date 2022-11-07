@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+package-lock.json
+yarn.lock
+
+# idea
+.idea
+*.iml
+!.idea/prettier.xml
+!.idea/codeStyles/codeStyleConfig.xml
